@@ -191,7 +191,7 @@ const handleCreate = async () => {
   return (
    <div className="container">
       <div className="card">
-        <h2>🎓 Alomonx Certificate Manager</h2>
+        <h2>🎓 Alomonx Certificate Manager Tool</h2>
 
        
 
